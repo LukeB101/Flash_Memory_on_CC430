@@ -1,0 +1,1 @@
+This program is an example of how to use the flash memory on the souvenir sprite. Once uploaded to the souvenir sprite, the sprite will cycle throught the LEDs 1-6. However, if you disconnect the power half way through, once power is supplied once again, it will continue where it left off!
