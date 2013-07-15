@@ -9,6 +9,6 @@ This can be used on the KickSat Sprites. If the sprite spins so the solar cells 
 
 =====================
 
-In order for the code to work, you need to put the CCFlash folder in to this directory:
+In order for the code to work, you need to put the CCFlash folder and all of its contents in to this directory:
 
     ~/Energia-Kicksat-Windows/hardware/msp430/libraries
